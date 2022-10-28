@@ -5,7 +5,7 @@ date:   2022-10-28 14:45:35 +0800
 categories: music
 ---
 
-本文为Pitchfork作者Jeremy D. LarsonReviews为Bon Iver撰写文章[Welcome to Bon Iver, Wisconsin](https://pitchfork.com/features/cover-story/bon-iver-interview/)的个人翻译，如有错误感谢斧正。
+本文为Pitchfork作者Jeremy D. Larson为Bon Iver撰写文章[Welcome to Bon Iver, Wisconsin](https://pitchfork.com/features/cover-story/bon-iver-interview/)的个人翻译，如有错误感谢斧正。
 
 <iframe width="740" height="925" src="https://media.pitchfork.com/clips/5d53f8a09cba7a0008e9f440/master/pass/FINALBONIVERUSE.mp4" frameborder="0" allowfullscreen></iframe>
 
