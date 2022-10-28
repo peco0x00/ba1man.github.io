@@ -7,6 +7,8 @@ categories: music
 
 本文为Pitchfork作者Jeremy D. LarsonReviews为Bon Iver撰写文章[Welcome to Bon Iver, Wisconsin](https://pitchfork.com/features/cover-story/bon-iver-interview/)的个人翻译，如有错误感谢斧正。
 
+<iframe width="740" height="925" src="https://media.pitchfork.com/clips/5d53f8a09cba7a0008e9f440/master/pass/FINALBONIVERUSE.mp4" frameborder="0" allowfullscreen></iframe>
+
 # Welcome to Bon Iver, Wisconsin
 
 > 在跨越其家乡中西部的路上，Justin Vernon把话题又引了回来，说起了为什么Bon Iver不是一个摇滚乐队——而是一个创意圣地，一场对自我的战争，一次集体宣泄。
@@ -39,6 +41,8 @@ TODO: To be continued...
 这是我在这个博客上写的第一篇文章，其实整个过程还是很有意思的，能对自己感兴趣的方向深入研究的同时也能对其他国家的文化语言等等有很多了解，毕竟”light a blunt“这种东西在国内还是很少见到的哈哈哈哈。
 跟着作者走完全程就好像自己去了当地旅游了一圈，感觉很奇妙。
 唯一的问题就是写这样的文章太耗时了，两个小时也只能写两三段，虽然有趣但近期还是只能一点一点攒了。
+
+本来原文开头还有一段视频的，但是在博客上排版怎么都弄不好，只能暂时放弃了:-D
 
 #### 注：
 
