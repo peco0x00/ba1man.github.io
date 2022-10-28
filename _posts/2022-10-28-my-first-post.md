@@ -7,4 +7,4 @@ categories: life
 
 # This is my first post on github page!
 
-![justin vernon!](/assets/2022-10-28/01.png)
+![justin vernon!](/assets/2022-10-28/1.png)

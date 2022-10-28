@@ -26,10 +26,10 @@ LSD[^2]和DMT[^3]现在在他的生活中作用显著，这些药物在心灵上
 Eau Claire，现在有65883个居民，被Chippewa河分成两部分，在州立学校[^4]的对面留下一个牛角湖[^5]，Vernon大学期间在这个学校主修了宗教和女性研究[^6]专业。
 他很喜欢这个地方，四周被大片绿色的大豆和玉米秸秆环绕。在这个地方好像时间都变得没有意义了。
 
-![University of Wisconsin Eau Claire](/assets/2022-10-28/03.png)
+![University of Wisconsin Eau Claire](/assets/2022-10-28/3.png)
 *University of Wisconsin Eau Claire*
 
-![Eau Claire的牛角湖](/assets/2022-10-28/02.png)
+![Eau Claire的牛角湖](/assets/2022-10-28/2.png)
 *Eau Claire的牛角湖；结合上图可以看到，图片右上角就是文中的州立学校*
 
 很少有美国艺术家会像他这样，投入大量的时间和金钱把他们的家乡展现在地图上——即使最近当地alt周刊[^7]的读者调查显示，Justin Vernon的本地音乐节Eaux Claires和他在下城区新鼓捣出来的表演艺术中心都是该市“最被高估“的景点。
