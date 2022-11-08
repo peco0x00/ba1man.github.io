@@ -77,58 +77,6 @@ For Emma中的很多歌词都是以另外一个人的口吻对着Justin唱的。
 
 Trevor Hagan于April Base 2017年9月
 
-<hr>
-<br>
-
-以下是初版*For Emma, Forever Ago*的专辑内容物，取自[discogs.com](https://www.discogs.com/master/97618-Bon-Iver-For-Emma-Forever-Ago)
-
-<img src="/assets/2022-11-08/1.png"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/2.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/3.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/4.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/5.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/6.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/7.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/8.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/9.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/10.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<img src="/assets/2022-11-08/11.jpeg"
-  alt="For Emma, Forever Ago original edition cover"
-  />
-
-<hr>
-<br>
-
 #### 注：
 
 [^1]: 原文"People, by Music."
