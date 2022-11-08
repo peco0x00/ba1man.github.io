@@ -3,7 +3,6 @@ layout: post
 title: Trevor Hagen's essay for For Emma, Forever Ago 10th anniversary
 date: 2022-11-08 11:13 +0800
 categories: music
-image: /assets/2022-11-08/1.png
 published: true
 ---
 
@@ -11,7 +10,7 @@ published: true
 
 # Trevor Hagen为Bon Iver的For Emma, Forever Ago十周年再版撰写的文章
 
-> 本文由Justin Vernon最好的朋友，管乐手，中学同学Trevor Hagen撰写并发表在For Emma, Forever Ago专辑10周年再版唱片中。原文有网友抄录在这里。本文由一根大棍子（知乎）翻译，颜 和重轻修订。
+> 本文由Justin Vernon最好的朋友，管乐手，中学同学Trevor Hagen撰写并发表在For Emma, Forever Ago专辑10周年再版唱片中。原文有网友抄录在[这里](https://www.reddit.com/r/boniver/comments/7y8be2/heres_the_excerpt_from_trevor_hagen_in_the_10/)。本文由[一根大棍子](https://weibo.com/u/6437256733)（[知乎](https://zhihu.com/people/xue-ding-e-de-dan-dan)）翻译，[颜](https://weibo.com/u/2675299563) 和重轻修订。
 
 我们以音乐为中心聚集，就好像我们聚集在火焰周围。我们倾听，我们凝视。这两种古老的传统使人类的故事随着火焰的热量和声音的共鸣辗转流传。 围绕着火堆，我们分享共同的过去以迎接共同的未来；我们释放邪恶的灵魂以迎接圣洁的神灵。我们告诉自己是这些过去使我们更加强大。 这是以火焰为中心的仪式。 然而火焰不仅仅是热量，正如音乐不仅仅是声音的共鸣一样。但不同的地方在于，火焰拥有不分青后皂白的力量，使得它既能够毁灭也可以创造。我们却通过让自身变得不堪一击来赋予音乐以力量。我们无法抗拒音乐给我们的一切，不管音乐中构建了一个真实的抑或是不真实的人、地方或时空。音乐为我们创造了一片净土让我们得以渴望、原谅以及放手，哪怕这净土的存在只有片刻。 For Emma，Forever Ago这张专辑就是这片净土。它是包裹了许多火焰的音乐。 “Emma”是对逝去的爱、初恋或第一次真实爱情体验的想象。它是我们所知道的最强大的能量。当你能够从一个人的声音中聆听到整个宇宙时，这就是Emma。 当你能够在视野中看到地球深沉的旋转时，这就是Emma。Emma是裹挟着热量的钟摆，在两颗心脏之间来回摆动。Emma是元感。音乐可以探知到我们还未能寻找到一个未知的伴侣，尽管我们都意识不到我们一直在寻找。
 
@@ -80,4 +79,3 @@ Trevor Hagan于April Base 2017年9月
 #### 注：
 
 [^1]: 原文"People, by Music."
-
