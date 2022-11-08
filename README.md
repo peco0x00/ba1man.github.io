@@ -12,11 +12,35 @@
 
 ### waiting for translation
 
-* https://web.archive.org/web/20180209222547/https://boniver.org/bio
-  * Justin Vernon好友Trevor Hagen为Bon Iver的专辑*22, A Million*撰写的文章
-  * 之前保存在[boniver.org](boniver.org)主页，现在已经被删除了，保存在互联网时光机中
-* http://www.mewx.info/becky-jarrett-shares-some-thoughts/
-* https://www.nytimes.com/2016/09/25/arts/music/bon-iver-justin-vernon-22-a-million-interview.html
-* https://trmm.net/Unix_room/
-* https://pitchfork.com/features/interview/9202-volcano-choir/
-* https://hackernoon.com/rick-and-morty-and-the-meaning-of-life-6640df17e263
+#### Bon Iver & Justin Vernon Related
+
+###### https://web.archive.org/web/20180209222547/https://boniver.org/bio
+
+* Justin Vernon好友Trevor Hagen为Bon Iver的专辑*22, A Million*撰写的文章
+* 之前保存在[boniver.org](boniver.org)主页，现在已经被删除了，保存在互联网时光机中
+
+###### https://www.nytimes.com/2016/09/25/arts/music/bon-iver-justin-vernon-22-a-million-interview.html
+
+* NewYork Time为Bon Iver当时的新专辑*22, A Million*撰写的采访文章
+
+###### https://pitchfork.com/features/interview/9202-volcano-choir/
+
+* pitchfork为Justin Vernon的另一个音乐项目*Volcano Choir*撰写的文章
+
+#### Other Music Related
+
+###### http://www.mewx.info/becky-jarrett-shares-some-thoughts/
+
+* Mew专辑*frengers*中为歌曲*Symmetry*献声的小女孩Becky Jarrett的相关文章
+
+#### Computer Science
+
+###### https://trmm.net/Unix_room/
+
+* 在twitter上看到Rob Pike分享的早期Bell Lab的计算机陈设相关文章
+
+#### Misc
+
+###### https://hackernoon.com/rick-and-morty-and-the-meaning-of-life-6640df17e263
+  
+* *Rick and Morty*编剧*Dan Harmon*曾经在采访中解释了"meaning of life"，本文为hackernoon作者以此展开讨论的文章
