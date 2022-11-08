@@ -19,6 +19,10 @@
 * Justin Vernon好友Trevor Hagen为Bon Iver的专辑*22, A Million*撰写的文章
 * 之前保存在[boniver.org](boniver.org)主页，现在已经被删除了，保存在互联网时光机中
 
+###### https://drownedinsound.com/in_depth/3254968-discover--bon-iver
+
+* Bon Iver早期（For Emma, 2008）专访
+
 ###### https://www.nytimes.com/2016/09/25/arts/music/bon-iver-justin-vernon-22-a-million-interview.html
 
 * NewYork Time为Bon Iver当时的新专辑*22, A Million*撰写的采访文章
