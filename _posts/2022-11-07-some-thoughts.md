@@ -3,7 +3,7 @@ layout: post
 title: 一些想法
 date: 2022-11-07 20:56 +0800
 categories: life
-published: true
+published: false
 ---
 
 # 一些想法
