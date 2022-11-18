@@ -12,6 +12,12 @@
 
 ### waiting for translation
 
+#### computer science
+
+###### https://zaplib.com/docs/blog_ts++.html#js-vs-wasm-performance
+
+* zaplib项目为typescript和wasm的性能优化问题撰写的文章
+
 #### Bon Iver & Justin Vernon Related
 
 ###### https://web.archive.org/web/20180209222547/https://boniver.org/bio
