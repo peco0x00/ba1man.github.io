@@ -48,3 +48,7 @@
 ###### https://hackernoon.com/rick-and-morty-and-the-meaning-of-life-6640df17e263
   
 * *Rick and Morty*编剧*Dan Harmon*曾经在采访中解释了"meaning of life"，本文为hackernoon作者以此展开讨论的文章
+
+###### https://www.hysteriamag.com/sabrina-benaim-not-alone/
+
+* Hysteria Magazine对加拿大诗人*Sabrina Benaim*的一篇介绍文章
