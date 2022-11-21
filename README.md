@@ -12,12 +12,6 @@
 
 ### waiting for translation
 
-#### computer science
-
-###### https://zaplib.com/docs/blog_ts++.html#js-vs-wasm-performance
-
-* zaplib项目为typescript和wasm的性能优化问题撰写的文章
-
 #### Bon Iver & Justin Vernon Related
 
 ###### https://web.archive.org/web/20180209222547/https://boniver.org/bio
@@ -37,7 +31,7 @@
 
 * pitchfork为Justin Vernon的另一个音乐项目*Volcano Choir*撰写的文章
 
-#### Other Music Related
+#### Music Related
 
 ###### http://www.mewx.info/becky-jarrett-shares-some-thoughts/
 
@@ -48,6 +42,10 @@
 ###### https://trmm.net/Unix_room/
 
 * 在twitter上看到Rob Pike分享的早期Bell Lab的计算机陈设相关文章
+
+###### https://zaplib.com/docs/blog_ts++.html#js-vs-wasm-performance
+
+* zaplib项目为typescript和wasm的性能优化问题撰写的文章
 
 #### Misc
 
