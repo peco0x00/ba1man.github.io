@@ -37,6 +37,10 @@
 
 * Mew专辑*frengers*中为歌曲*Symmetry*献声的小女孩Becky Jarrett的相关文章
 
+###### https://amp.theguardian.com/music/2022/nov/26/jacob-collier-stormzy-djesse-interview
+
+* Jacob Collier *The Guardian*报刊文章
+
 #### Computer Science
 
 ###### https://trmm.net/Unix_room/
