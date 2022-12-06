@@ -53,7 +53,7 @@
 
 ###### https://www.vice.com/en/article/jpgpey/a-history-of-smarterchild
 
-* vice news作者Ashwin Rodrigues为微软早期的chatbot [smartedChild](https://en.wikipedia.org/wiki/SmarterChild)撰写的文章
+* vice news作者Ashwin Rodrigues在2016年为微软早期的chatbot [smartedChild](https://en.wikipedia.org/wiki/SmarterChild)撰写的文章
 
 #### Misc
 
