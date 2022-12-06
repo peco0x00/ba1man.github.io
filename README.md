@@ -51,6 +51,10 @@
 
 * zaplib项目为typescript和wasm的性能优化问题撰写的文章
 
+###### https://www.vice.com/en/article/jpgpey/a-history-of-smarterchild
+
+* vice news作者Ashwin Rodrigues为微软早期的chatbot [smartedChild](https://en.wikipedia.org/wiki/SmarterChild)撰写的文章
+
 #### Misc
 
 ###### https://hackernoon.com/rick-and-morty-and-the-meaning-of-life-6640df17e263
