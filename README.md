@@ -55,6 +55,10 @@
 
 * vice news作者Ashwin Rodrigues在2016年为微软早期的chatbot [smartedChild](https://en.wikipedia.org/wiki/SmarterChild)撰写的文章
 
+###### https://www.facebook.com/permalink.php?story_fbid=pfbid0iPixEvPJQGzNa6t2x6HUL5TYqfmKGqSgfkBg6QaTyHF5frXQi7eLGxC7uPQv5U5jl&id=100006735798590
+
+* John Carmack最近从facebook辞职了，其在公司内部发表的文章被泄漏给了媒体
+
 #### Misc
 
 ###### https://hackernoon.com/rick-and-morty-and-the-meaning-of-life-6640df17e263
