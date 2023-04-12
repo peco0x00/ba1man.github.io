@@ -69,4 +69,9 @@
 
 * Hysteria Magazine对加拿大诗人*Sabrina Benaim*的一篇介绍文章
 
+###### https://www.indiewire.com/feature/best-animated-series-all-time-cartoons-anime-tv-1202021835/amp/
+
+* best animations of all time
+
+
 #### ... Maybe some Lex Fridman podcasts?
