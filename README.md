@@ -1,4 +1,4 @@
-# rbamb's blooooooooooooooog!
+# ba1man's blooooooooooooooog!
 
 ## tech blog
 
