@@ -23,5 +23,5 @@
 * https://hackernoon.com/rick-and-morty-and-the-meaning-of-life-6640df17e263
 * https://www.hysteriamag.com/sabrina-benaim-not-alone/
 * https://www.indiewire.com/feature/best-animated-series-all-time-cartoons-anime-tv-1202021835/amp/
-* https://www.youtube.com/playlist?list=PLx-gWXGUkAKo40GolGG6FXbNL75mrymav
+* https://www.youtube.com/playlist?list=PLnB0fKOCbNWJ2p0qarub9uP3U0oNsUNIj
 
