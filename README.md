@@ -6,6 +6,7 @@
 * https://zaplib.com/docs/blog_ts++.html#js-vs-wasm-performance
 * https://www.vice.com/en/article/jpgpey/a-history-of-smarterchild
 * https://www.facebook.com/permalink.php?story_fbid=pfbid0iPixEvPJQGzNa6t2x6HUL5TYqfmKGqSgfkBg6QaTyHF5frXQi7eLGxC7uPQv5U5jl&id=100006735798590
+* https://www.youtube.com/watch?v=CFWuwNDOnIo
 
 #### Music
 
