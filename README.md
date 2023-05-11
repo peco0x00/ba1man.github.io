@@ -25,4 +25,5 @@
 * https://www.hysteriamag.com/sabrina-benaim-not-alone/
 * https://www.indiewire.com/feature/best-animated-series-all-time-cartoons-anime-tv-1202021835/amp/
 * https://www.youtube.com/playlist?list=PLnB0fKOCbNWJ2p0qarub9uP3U0oNsUNIj
+* https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html
 
