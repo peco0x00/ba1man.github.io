@@ -18,6 +18,7 @@
 * https://www.soundonsound.com/techniques/inside-track-bon-iver-22-a-million
 * http://www.mewx.info/becky-jarrett-shares-some-thoughts/
 * https://amp.theguardian.com/music/2022/nov/26/jacob-collier-stormzy-djesse-interview
+* https://atwoodmagazine.com/mljy-mr-little-jeans-better-days-album-interview-music-feature/
 
 #### Misc
 
@@ -26,4 +27,4 @@
 * https://www.indiewire.com/feature/best-animated-series-all-time-cartoons-anime-tv-1202021835/amp/
 * https://www.youtube.com/playlist?list=PLnB0fKOCbNWJ2p0qarub9uP3U0oNsUNIj
 * https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html
-
+* https://edlatimore.com/no-one-gives-a-shit-about-you/
