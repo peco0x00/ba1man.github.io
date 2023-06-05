@@ -29,3 +29,4 @@
 * https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html
 * https://edlatimore.com/no-one-gives-a-shit-about-you/
 * https://share.transistor.fm/s/8c08c015
+* https://www.washingtonpost.com/wp-srv/national/longterm/unabomber/manifesto.text.htm
