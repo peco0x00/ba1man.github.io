@@ -28,3 +28,4 @@
 * https://www.youtube.com/playlist?list=PLnB0fKOCbNWJ2p0qarub9uP3U0oNsUNIj
 * https://www.nytimes.com/2023/05/10/us/heather-armstrong-dead.html
 * https://edlatimore.com/no-one-gives-a-shit-about-you/
+* https://share.transistor.fm/s/8c08c015
